@@ -1,0 +1,3 @@
+// generate ssh key; ssh key is used to uniquely identify your system. and it allow you to validate yourself without entering password each time
+to generate key: ssh-keygen
+//ssh key hale paxi hamro laptop lei git le chinxa ra bujxa ani password hali rakhna pardeina git use garda
