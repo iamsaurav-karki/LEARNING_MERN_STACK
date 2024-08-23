@@ -1,3 +1,16 @@
 
 notes is here in this folder
 =======
+// git commands
+//branching 
+// git checkout -b branchname; -- to create newbranch and checkout to identify
+//git branch -- to check available branches
+
+** to checkout to existing branch**
+git checkout <branchname>
+
+** to delete branch **
+git branch -D <branchname> 
+
+
+// in branch main added new things
