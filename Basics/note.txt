@@ -1,3 +1,6 @@
 
 notes is here in this folder
 =======
+
+** to merge the branch **
+git merge <branchname>
