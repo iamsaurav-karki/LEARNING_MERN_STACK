@@ -1,6 +1,7 @@
 
 notes is here in this folder
 =======
+<<<<<<< HEAD
 // git commands
 //branching 
 // git checkout -b branchname; -- to create newbranch and checkout to identify
@@ -14,3 +15,8 @@ git branch -D <branchname>
 
 
 // in branch main added new things
+=======
+
+** to merge the branch **
+git merge <branchname>
+>>>>>>> 0c5b5ac96f6ef58cc76246837536ad68bec20e6e
