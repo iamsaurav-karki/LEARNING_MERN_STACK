@@ -15,6 +15,7 @@ User.prototype.setaddress = function () {
 
 
 const newUser = new User() // function lei as a class use garim bhane that is called prototype in js
+console.log(newUser.setname());
+console.log(newUser.setaddress());
 
-
-console.log("newUser.setname()" + "newUser.setaddress()" )
+ 
