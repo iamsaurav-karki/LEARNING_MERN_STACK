@@ -33,9 +33,15 @@ class Student {
     }
   }
 
+<<<<<<< HEAD
   // getDivisionValue = () => {  // private method can be called as:
   //   this.#getDivision();
   // }
+=======
+  getDivisionValue = () => {
+    this.#getDivision();
+  }
+>>>>>>> 965f94c85d2a1fa923497637986ba3a82db5ea4a
 }
 
 const studentObj = new Student("saurav", 700);
